@@ -11,5 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
+
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.JEKYLL_PAT }}
+          enable_jekyll: true
+          allow_empty_commit: true
+
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
