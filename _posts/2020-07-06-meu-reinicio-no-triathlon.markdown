@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Hora de voltar! Meu re-inicio no triathlon"
+title:  "Meu reinício no triathlon"
 date:   2020-07-06 20:32:37 +0200
 categories: triathlon
 ---
 
-Foram quatro anos afastado do Triathlon. Tive também uma teimosa dor na lombar que me acompanhou (e ainda me acompanha) nos útimos anos, mas a grande verdade, é que ser sedentário é confortável. Bem, deixa me te contextulizar melhor.
-
-Logo que me mudei do Rio de Janeiro para Berlin na Alemanha interrompi com o triathlon. Nas minhas primeiras semanas procurei algumas acessorias esportivas em Berlin, mas a opções pareciam bem ruims. As poucas acessorias eram distantes demais e com horários péssimos. Websites tenebrosamente feios me faziam duvidar se essas acessorias eram sérias mesmo. O idioma era outra barreira. Por mais que fosse possível falar ingles, logo percebi que não poderia abusar da boa vontade dos alemães comigo. E por fim ainda tinha o frio. Se já era dificil acordar cedo para pedalar no Rio, imagine com 5 graus. Os desentivivos eram muitos e o inevitável aconteceu. O triathlon virou uma boa lembrança.
+Logo que me mudei do Rio de Janeiro para Berlin na Alemanha interrompi com o triathlon. Nas minhas primeiras semanas procurei algumas assessorias esportivas em Berlin para continuar treinando pelo menos, mas a opções pareciam bem ruims. As poucas assessorias eram distantes demais e com horários péssimos. Websites tenebrosamente feios me faziam duvidar se essas assessorias eram sérias mesmo. O idioma era outra barreira. Por mais que fosse possível falar ingles, logo percebi que não poderia abusar da boa vontade dos alemães comigo. E por fim ainda tinha o frio. Se já era dificil acordar cedo para pedalar no Rio, imagine com 5 graus. Os desentivivos eram muitos e o inevitável aconteceu. O triathlon virou uma boa lembrança.
 
 Eu estava completamente focado na nova experiência de vida. Lugar novo, idioma novo, emprego novo, amigos novos. Nada parecia conhecido ou confortável. Agendar um corte de cabelo parecia o 13 trabalho de hércules. Dado esse cenário, ter parado com o triathlon não me gerou nenhum desconforto. Haviam coisas demais que demandavam meu foco, e o triathlon, como você já deve saber, não é um esporte simples de praticar. A verdade é que não era o momento de voltar a ter rotina de treinos. Adicione à isso, e experiência de me tornar pai. Em 2018, Bernard chegou e todos os meus neurônios estavam direcionados à ele agora.
 
